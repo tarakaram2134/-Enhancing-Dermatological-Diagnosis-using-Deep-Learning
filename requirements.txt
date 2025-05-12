@@ -1,0 +1,12 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchvision
+tensorflow
+pillow
+tqdm
+opencv-python
+scikit-image
